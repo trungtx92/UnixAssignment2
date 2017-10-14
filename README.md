@@ -1,3 +1,6 @@
-# UnixAssignment-2
+
+# UnixAssignment-2:
+# Unix cac Assignment2 loz
 hiih
-Trung an l?ngg
+:2loz kham
+>>>>>>> liin an lon

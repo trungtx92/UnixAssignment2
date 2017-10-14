@@ -1,4 +1,5 @@
-#!bin/bash
+#!
+#con cac
 class package_install
 {
 	package { "openssh":
