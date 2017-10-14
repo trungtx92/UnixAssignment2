@@ -1,4 +1,4 @@
-#!bin/bash
+#!bi
 class manage_configurationFile
 {
 	exec { "stdlib_install":
